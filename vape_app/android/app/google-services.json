@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644621164238",
+    "project_id": "store-134b5",
+    "storage_bucket": "store-134b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644621164238:android:d78782436d310d3cbbba9f",
+        "android_client_info": {
+          "package_name": "com.example.vape_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644621164238-gj3mu9fqab3ud2p3amhrjfaj0hi2rhf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLO_qaNemHLsoZqczcjE7o_eVMc-1PwkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644621164238-gj3mu9fqab3ud2p3amhrjfaj0hi2rhf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
